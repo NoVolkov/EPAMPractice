@@ -1,0 +1,12 @@
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.Entities\bin\Debug\net5.0\SstuEpam.Shops.Entities.deps.json
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.Entities\bin\Debug\net5.0\SstuEpam.Shops.Entities.dll
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.Entities\bin\Debug\net5.0\ref\SstuEpam.Shops.Entities.dll
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.Entities\bin\Debug\net5.0\SstuEpam.Shops.Entities.pdb
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.Entities\obj\Debug\net5.0\SstuEpam.Shops.Entities.csproj.AssemblyReference.cache
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.Entities\obj\Debug\net5.0\SstuEpam.Shops.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.Entities\obj\Debug\net5.0\SstuEpam.Shops.Entities.AssemblyInfoInputs.cache
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.Entities\obj\Debug\net5.0\SstuEpam.Shops.Entities.AssemblyInfo.cs
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.Entities\obj\Debug\net5.0\SstuEpam.Shops.Entities.csproj.CoreCompileInputs.cache
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.Entities\obj\Debug\net5.0\SstuEpam.Shops.Entities.dll
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.Entities\obj\Debug\net5.0\ref\SstuEpam.Shops.Entities.dll
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.Entities\obj\Debug\net5.0\SstuEpam.Shops.Entities.pdb

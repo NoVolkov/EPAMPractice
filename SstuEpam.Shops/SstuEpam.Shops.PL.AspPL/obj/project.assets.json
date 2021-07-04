@@ -1,11 +1,37 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Ninject.MVC5/3.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Ninject.Web.Mvc.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Ninject.Web.Mvc.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Ninject.MVC5/3.3.0": {
+      "sha512": "NLmpKSb6OXyWR17NCdeqqpMcvyW2AXlQu5SrICQLXwYYwvCgGX++GfJ3ieeyvjSDkf2q8GihPk6Jhkf+Q0/TPw==",
+      "type": "package",
+      "path": "ninject.mvc5/3.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Ninject.Web.Mvc.dll",
+        "lib/net45/Ninject.Web.Mvc.xml",
+        "ninject.mvc5.3.3.0.nupkg.sha512",
+        "ninject.mvc5.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Ninject.MVC5 >= 3.3.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\vdmvo\\.nuget\\packages\\": {},
@@ -53,6 +79,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "Ninject.MVC5": {
+            "target": "Package",
+            "version": "[3.3.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -74,5 +106,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Ninject.MVC5 3.3.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Ninject.MVC5",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,15 @@
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.Interfaces\bin\Debug\net5.0\SstuEpam.Shops.DAL.Interfaces.deps.json
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.Interfaces\bin\Debug\net5.0\SstuEpam.Shops.DAL.Interfaces.dll
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.Interfaces\bin\Debug\net5.0\ref\SstuEpam.Shops.DAL.Interfaces.dll
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.Interfaces\bin\Debug\net5.0\SstuEpam.Shops.DAL.Interfaces.pdb
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.Interfaces\bin\Debug\net5.0\SstuEpam.Shops.Entities.dll
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.Interfaces\bin\Debug\net5.0\SstuEpam.Shops.Entities.pdb
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.Interfaces\obj\Debug\net5.0\SstuEpam.Shops.DAL.Interfaces.csproj.AssemblyReference.cache
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.Interfaces\obj\Debug\net5.0\SstuEpam.Shops.DAL.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.Interfaces\obj\Debug\net5.0\SstuEpam.Shops.DAL.Interfaces.AssemblyInfoInputs.cache
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.Interfaces\obj\Debug\net5.0\SstuEpam.Shops.DAL.Interfaces.AssemblyInfo.cs
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.Interfaces\obj\Debug\net5.0\SstuEpam.Shops.DAL.Interfaces.csproj.CoreCompileInputs.cache
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.Interfaces\obj\Debug\net5.0\SstuEpam.Shops.DAL.Interfaces.csproj.CopyComplete
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.Interfaces\obj\Debug\net5.0\SstuEpam.Shops.DAL.Interfaces.dll
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.Interfaces\obj\Debug\net5.0\ref\SstuEpam.Shops.DAL.Interfaces.dll
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.Interfaces\obj\Debug\net5.0\SstuEpam.Shops.DAL.Interfaces.pdb

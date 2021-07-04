@@ -1,0 +1,17 @@
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\bin\Debug\net5.0\SstuEpam.Shops.DAL.SqlDAL.ADO.deps.json
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\bin\Debug\net5.0\SstuEpam.Shops.DAL.SqlDAL.ADO.dll
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\bin\Debug\net5.0\ref\SstuEpam.Shops.DAL.SqlDAL.ADO.dll
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\bin\Debug\net5.0\SstuEpam.Shops.DAL.SqlDAL.ADO.pdb
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\bin\Debug\net5.0\SstuEpam.Shops.DAL.Interfaces.dll
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\bin\Debug\net5.0\SstuEpam.Shops.Entities.dll
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\bin\Debug\net5.0\SstuEpam.Shops.DAL.Interfaces.pdb
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\bin\Debug\net5.0\SstuEpam.Shops.Entities.pdb
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\obj\Debug\net5.0\SstuEpam.Shops.DAL.SqlDAL.ADO.csproj.AssemblyReference.cache
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\obj\Debug\net5.0\SstuEpam.Shops.DAL.SqlDAL.ADO.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\obj\Debug\net5.0\SstuEpam.Shops.DAL.SqlDAL.ADO.AssemblyInfoInputs.cache
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\obj\Debug\net5.0\SstuEpam.Shops.DAL.SqlDAL.ADO.AssemblyInfo.cs
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\obj\Debug\net5.0\SstuEpam.Shops.DAL.SqlDAL.ADO.csproj.CoreCompileInputs.cache
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\obj\Debug\net5.0\SstuEpam.Shops.DAL.SqlDAL.ADO.csproj.CopyComplete
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\obj\Debug\net5.0\SstuEpam.Shops.DAL.SqlDAL.ADO.dll
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\obj\Debug\net5.0\ref\SstuEpam.Shops.DAL.SqlDAL.ADO.dll
+D:\source\repos\EPAMPractice\SstuEpam.Shops\SstuEpam.Shops.DAL.SqlDAL\obj\Debug\net5.0\SstuEpam.Shops.DAL.SqlDAL.ADO.pdb

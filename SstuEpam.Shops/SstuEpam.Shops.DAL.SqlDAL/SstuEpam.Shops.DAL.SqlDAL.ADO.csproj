@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SstuEpam.Shops.DAL.Interfaces\SstuEpam.Shops.DAL.Interfaces.csproj" />
+    <ProjectReference Include="..\SstuEpam.Shops.Entities\SstuEpam.Shops.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

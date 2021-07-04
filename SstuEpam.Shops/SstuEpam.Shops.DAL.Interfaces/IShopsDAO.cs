@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SstuEpam.Shops.Entities
+namespace SstuEpam.Shops.DAL.Interfaces
 {
-    class Shop
+    public interface IShopsDAO
     {
     }
 }
