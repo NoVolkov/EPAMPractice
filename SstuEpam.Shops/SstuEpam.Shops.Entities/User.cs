@@ -13,8 +13,8 @@ namespace SstuEpam.Shops.Entities
         public string Name { get; }
         public string Patronymic { get; }
         public string Email { get; }
-        public string password { get; }
-        public string role { get; }
+        public string Password { get; }
+        public string Role { get; }
 
         public User(long id, string surname, string name, string patronymic, string email, string password, string role)
         {
@@ -23,12 +23,12 @@ namespace SstuEpam.Shops.Entities
             Name = name;
             Patronymic = patronymic;
             Email = email;
-            this.password = password;
-            this.role = role;
+            Password = password;
+            Role = role;
         }
         public override string ToString()
         {
-            return Id + " " + Surname + " " + Name + " " + Patronymic + " " + password + " " + role;
+            return Id + " " + Surname + " " + Name + " " + Patronymic + " " + Password + " " + Role;
         }
     }
 }

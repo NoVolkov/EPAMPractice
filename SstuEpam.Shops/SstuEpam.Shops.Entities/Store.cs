@@ -10,18 +10,18 @@ namespace SstuEpam.Shops.Entities
     public class Store
     {
         public long Id { get; }
-        public string name { get; }
-        public char rating { get; } // от 0 до 5
-        public string address { get; }
-        public string website { get; }
+        public string Name { get; }
+        public string Rating { get; } // от 0 до 5
+        public string Address { get; }
+        public string Website { get; }
 
-        public Store(long id, string name, char rating, string address, string website)
+        public Store(long id, string name, string rating, string address, string website)
         {
             Id = id;
-            this.name = name;
-            this.rating = rating;
-            this.address = address;
-            this.website = website;
+            Name = name;
+            Rating = rating;
+            Address = address;
+            Website = website;
         }
     }
 }

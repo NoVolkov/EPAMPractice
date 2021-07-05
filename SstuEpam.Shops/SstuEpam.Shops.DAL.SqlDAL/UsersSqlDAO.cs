@@ -27,9 +27,9 @@ namespace SstuEpam.Shops.DAL.SqlDAL.ADO
                 prms[3] = new SqlParameter("@Email", System.Data.SqlDbType.NVarChar, 50);
                 prms[3].Value = user.Email;
                 prms[4] = new SqlParameter("@Password", System.Data.SqlDbType.NChar, 64);
-                prms[4].Value = user.password;
+                prms[4].Value = user.Password;
                 prms[5] = new SqlParameter("@Role", System.Data.SqlDbType.NVarChar, 50);
-                prms[5].Value = user.role;
+                prms[5].Value = user.Role;
                 com.Parameters.AddRange(prms);
                 con.Open();
                 com.ExecuteNonQuery();
